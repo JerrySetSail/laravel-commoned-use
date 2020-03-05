@@ -1,4 +1,4 @@
-![image-20200305113514031](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305113514031.png)
+![image-20200305113514031](https://raw.githubusercontent.com/JerryChan93/pics/master/laravel-commoned-use/image-20200305113514031.png)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-![image-20200305115253919](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305115253919.png)
+![image-20200305115253919](https://raw.githubusercontent.com/JerryChan93/pics/master/laravel-commoned-use/image-20200305115253919.png)
 
 上图的箭头表示模块之间 **依赖注入** 的方向。
 
@@ -40,7 +40,7 @@
 
 ## Controller：
 
-![image-20200305130346702](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305130346702.png)
+![image-20200305130346702](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305130346702.png?raw=true)
 
 ​					
 
@@ -58,7 +58,7 @@
 
 ## Validator
 
-![image-20200305130953862](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305130953862.png)
+![image-20200305130953862](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305130953862.png?raw=true)
 
 Validator 是借鉴了 TP5 Validation 里面的 场景值思想 
 
@@ -94,9 +94,9 @@ Validator 是借鉴了 TP5 Validation 里面的 场景值思想
 
 
 
-![image-20200305132136471](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305132136471.png)
+![image-20200305132136471](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305132136471.png?raw=true)
 
-![image-20200305132447581](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305132447581.png)
+![image-20200305132447581](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305132447581.png?raw=true)
 
 一般做web 开发的常规的业务上的需求都是 增删改查，
 
@@ -124,7 +124,7 @@ Validator 是借鉴了 TP5 Validation 里面的 场景值思想
 
 
 
-![image-20200305133415150](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305133415150.png)
+![image-20200305133415150](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305133415150.png)
 
 
 
@@ -150,7 +150,7 @@ Repository 旨在简化 Model 层的逻辑（满足 Model层 做个配置项）�
 
 而且不会 影响上层（service 与 controller）的逻辑。
 
-![image-20200305134150848](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305134150848.png)
+![image-20200305134150848](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305134150848.png?raw=true)
 
 
 
@@ -172,7 +172,7 @@ whereQueryBuilder 是基于 Laravel Builder 做的抽象层，
 
 举个栗子：
 
-![image-20200305134913690](/Users/jerrychan/Library/Application Support/typora-user-images/image-20200305134913690.png)
+![image-20200305134913690](https://github.com/JerryChan93/pics/blob/master/laravel-commoned-use/image-20200305134913690.png?raw=true)
 
 
 
